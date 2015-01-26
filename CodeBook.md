@@ -26,7 +26,7 @@ The file run_analysis.R takes the data from the UCIHAR Dataset (described above)
 * Computes the means of this secondary dataset, group by subject/activity.
 * Saves this last dataset to `./data/tidy_data.txt`
 
-* which is contained in the zip file of the downloadable data. 
+** README.txt is contained in the zip file of the downloadable data. 
 
 [1] http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 [2] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
